@@ -9,3 +9,4 @@ This is a self learning documentation
 - 2/3 String methods: Change case, trim, len, space, replace
 - 2/10 String methods: InStr(), StrReverse(), Left(), Right(), Mid()
 - 1/12 Loops: For Loops, For Each, Do While, Do Until
+- 3/6 Arrays & Loops
